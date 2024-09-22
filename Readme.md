@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Anand</h1>
 <h3 align="center">A Curious Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1pyEuOCLQSG6Q7QT7FpXzBPQmnjcKI0m7" />
+<img align="left" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1pyEuOCLQSG6Q7QT7FpXzBPQmnjcKI0m7" />
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
